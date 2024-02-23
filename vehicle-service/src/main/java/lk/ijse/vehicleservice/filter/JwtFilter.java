@@ -19,11 +19,7 @@ import org.springframework.web.filter.OncePerRequestFilter;
 
 import java.io.IOException;
 
-/**
- * @author Lahiru Dilshan
- * @created Thu 12:48 PM on 10/5/2023
- * @project springsecurity
- **/
+
 @Component
 @RequiredArgsConstructor
 public class JwtFilter extends OncePerRequestFilter {

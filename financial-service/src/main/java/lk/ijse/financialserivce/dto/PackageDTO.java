@@ -9,11 +9,7 @@ import lombok.NoArgsConstructor;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @author Lahiru Dilshan
- * @created Sat 10:41 AM on 10/7/2023
- * @project nexttravel
- **/
+
 @NoArgsConstructor
 @AllArgsConstructor
 @Data

@@ -28,11 +28,7 @@ import java.util.List;
 import java.util.Optional;
 import java.util.UUID;
 
-/**
- * @author Lahiru Dilshan
- * @created Sat 10:52 AM on 10/21/2023
- * @project identity-server
- **/
+
 @Service
 @RequiredArgsConstructor
 public class UserServiceImpl implements UserService {

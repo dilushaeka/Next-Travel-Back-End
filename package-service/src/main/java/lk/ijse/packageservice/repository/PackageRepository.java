@@ -9,11 +9,7 @@ import org.springframework.stereotype.Repository;
 import java.util.List;
 import java.util.Optional;
 
-/**
- * @author Lahiru Dilshan
- * @created Sat 10:36 AM on 10/7/2023
- * @project nexttravel
- **/
+
 @Repository
 public interface PackageRepository extends JpaRepository<Package, String> {
 

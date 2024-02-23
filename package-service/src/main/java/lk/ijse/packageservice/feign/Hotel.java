@@ -7,11 +7,7 @@ import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-/**
- * @author Lahiru Dilshan
- * @created Wed 7:41 PM on 10/18/2023
- * @project package-service
- **/
+
 @FeignClient("HOTEL-SERVICE")
 public interface Hotel {
 

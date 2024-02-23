@@ -6,11 +6,7 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-/**
- * @author Lahiru Dilshan
- * @created Sat 10:25 AM on 10/7/2023
- * @project nexttravel
- **/
+
 @NoArgsConstructor
 @AllArgsConstructor
 @Data

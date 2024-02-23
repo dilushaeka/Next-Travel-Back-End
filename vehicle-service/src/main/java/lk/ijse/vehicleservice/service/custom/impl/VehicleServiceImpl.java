@@ -20,11 +20,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
 
-/**
- * @author Lahiru Dilshan
- * @created Sat 10:33 AM on 10/7/2023
- * @project nexttravel
- **/
+
 @Service
 @Transactional
 @RequiredArgsConstructor

@@ -12,11 +12,7 @@ import org.springframework.web.multipart.MultipartFile;
 
 import java.io.IOException;
 
-/**
- * @author Lahiru Dilshan
- * @created Sat 12:03 PM on 10/21/2023
- * @project identity-server
- **/
+
 @RestController
 @RequestMapping("/api/v1/auth")
 @CrossOrigin

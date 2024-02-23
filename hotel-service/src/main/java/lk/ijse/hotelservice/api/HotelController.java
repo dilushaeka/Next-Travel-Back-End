@@ -12,11 +12,7 @@ import org.springframework.web.multipart.MultipartFile;
 
 import java.io.IOException;
 
-/**
- * @author Lahiru Dilshan
- * @created Sat 10:38 AM on 10/7/2023
- * @project nexttravel
- **/
+
 @RestController
 @RequestMapping("/api/v1/hotel")
 @CrossOrigin

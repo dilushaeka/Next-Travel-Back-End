@@ -6,11 +6,7 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-/**
- * @author Lahiru Dilshan
- * @created Sun 8:34 AM on 10/22/2023
- * @project identity-server
- **/
+
 @NoArgsConstructor
 @AllArgsConstructor
 @Data

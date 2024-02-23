@@ -9,11 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * @author Lahiru Dilshan
- * @created Fri 8:37 AM on 10/27/2023
- * @project financial-serivce
- **/
+
 
 @RestController
 @RequestMapping("api/v1/financial")

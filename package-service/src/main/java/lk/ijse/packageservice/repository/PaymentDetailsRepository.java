@@ -8,11 +8,7 @@ import org.springframework.stereotype.Repository;
 import java.util.List;
 import java.util.Optional;
 
-/**
- * @author Lahiru Dilshan
- * @created Wed 1:56 PM on 10/25/2023
- * @project package-service
- **/
+
 @Repository
 public interface PaymentDetailsRepository extends JpaRepository<PaymentDetails, Integer> {
 

@@ -12,11 +12,7 @@ import org.springframework.security.core.userdetails.UserDetails;
 import java.util.Collection;
 import java.util.List;
 
-/**
- * @author Lahiru Dilshan
- * @created Sat 10:42 AM on 10/21/2023
- * @project identity-server
- **/
+
 @NoArgsConstructor
 @AllArgsConstructor
 @Data

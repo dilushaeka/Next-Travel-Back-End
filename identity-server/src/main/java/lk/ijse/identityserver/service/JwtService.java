@@ -15,11 +15,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Objects;
 
-/**
- * @author Lahiru Dilshan
- * @created Sat 10:57 AM on 10/21/2023
- * @project identity-server
- **/
+
 @Service
 public class JwtService {
 

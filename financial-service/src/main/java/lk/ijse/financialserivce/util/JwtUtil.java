@@ -9,11 +9,7 @@ import org.springframework.stereotype.Service;
 
 import java.security.Key;
 
-/**
- * @author Lahiru Dilshan
- * @created Sat 10:57 AM on 10/21/2023
- * @project guide-server
- **/
+
 @Service
 public class JwtUtil {
 

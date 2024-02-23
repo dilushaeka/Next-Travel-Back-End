@@ -9,11 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestHeader;
 import org.springframework.web.bind.annotation.RequestParam;
 
-/**
- * @author Lahiru Dilshan
- * @created Fri 1:06 PM on 10/20/2023
- * @project package-service
- **/
+
 @FeignClient("IDENTITY-SERVICE")
 public interface User {
 

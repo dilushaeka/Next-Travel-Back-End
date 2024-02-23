@@ -10,11 +10,6 @@ import org.springframework.stereotype.Repository;
 import java.util.List;
 import java.util.Optional;
 
-/**
- * @author Lahiru Dilshan
- * @created Sat 10:46 AM on 10/21/2023
- * @project identity-server
- **/
 @Repository
 public interface UserRepository extends JpaRepository<User, Integer> {
 

@@ -15,11 +15,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @author Lahiru Dilshan
- * @created Fri 8:43 AM on 10/27/2023
- * @project financial-serivce
- **/
+
 @Service
 @RequiredArgsConstructor
 public class FinancialServiceImpl implements FinancialService {

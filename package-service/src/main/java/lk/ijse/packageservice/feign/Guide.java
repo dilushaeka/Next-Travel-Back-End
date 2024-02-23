@@ -11,11 +11,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import java.util.List;
 
-/**
- * @author Lahiru Dilshan
- * @created Wed 7:42 PM on 10/18/2023
- * @project package-service
- **/
+
 @FeignClient("GUIDE-SERVICE")
 public interface Guide {
 

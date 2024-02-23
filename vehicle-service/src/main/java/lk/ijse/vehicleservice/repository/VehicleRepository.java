@@ -8,11 +8,7 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
-/**
- * @author Lahiru Dilshan
- * @created Sat 10:36 AM on 10/7/2023
- * @project nexttravel
- **/
+
 @Repository
 public interface VehicleRepository extends JpaRepository<Vehicle, Integer> {
 
